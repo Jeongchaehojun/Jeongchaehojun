@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://youtube.com/@turtleneck_king?si=LGvii2NFShwj3RRu" target="_blank"><img src="https://img.shields.io/badge/유튜브-#000000?style=plastic&logo=youtube&logoColor=#FF0000"/></a>
 <!--
 **Jeongchaehojun/Jeongchaehojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
