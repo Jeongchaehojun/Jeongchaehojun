@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://youtube.com/@turtleneck_king?si=LGvii2NFShwj3RRu" target="_blank"><img src="file:///C:/Users/%EC%A0%95%EC%B1%84%ED%98%B8%EC%A4%80/Downloads/youtube.svg-#000000?style=plastic&logo=youtube&logoColor=#FF0000"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?si=GiYcm8zVvNGp3S8P&url=https%3A%2F%2Fyoutube.com%2F%40turtleneck_king&count_bg=%23DDE5D7&title_bg=%236E6464&icon=youtube.svg&icon_color=%23FF0000&title=youtube&edge_flat=false"/></a>
 <!--
 **Jeongchaehojun/Jeongchaehojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
