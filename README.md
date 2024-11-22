@@ -41,6 +41,8 @@
 
 **You can get a sense of who I am. 😊**
 
+
+
 ## 📚 Book Recommendations
 
 | No. | Title | Author |
@@ -52,7 +54,9 @@
 | 05 | [Try Again, Calculus!](https://www.yes24.com/Product/Goods/77126121) | Nagano Hiroyuki |
 
 
-## "🤖Used in college(한 번이라도 써본 것까지)"
+
+
+## "🤖Used in college"
 <span>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
