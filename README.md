@@ -1,4 +1,4 @@
-### 👋저 좀 읽어주세요 A coffee machine's best friend. ☕⚓
+### 👋 A coffee machine's best friend. 읽어주셔서 감사합니다😁 ☕⚓
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img 
