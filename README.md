@@ -1,10 +1,17 @@
 ### 👋저 좀 읽어주세요 A coffee machine's best friend. ☕⚓
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdpc2liNm5mb3pwM2pzYWlpaDNuazRuZm5ibWh5b2V6aWd0anhuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" alt="Funny GIF" width="250" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img 
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdpc2liNm5mb3pwM2pzYWlpaDNuazRuZm5ibWh5b2V6aWd0anhuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" 
+    alt="Funny GIF" 
+    width="250" 
+  />
+</div>
 
 
-- 🔥 **정채호준** 입니다. -(4글자 맞습니다) / I'm Hojun .
-- 🎓 **중앙대학교** 에서 **컴퓨터공학, 예술공학** 을 공부합니다. / Studying **Computer Science, Arts and Technology** at **Chung-Ang University**
+
+- 🔥 **정채호준** 입니다. (4글자 맞습니다) / I'm Hojun .
+- 🎓 **중앙대학교** 에서 **예술공학, 컴퓨터공학** 을 공부합니다. / Studying **Computer Science, Arts and Technology** at **Chung-Ang University**
 - 🦅 **해병 병장 만기 전역** / Proudly served as a **Marine Corps Sergeant (honorably discharged)**
 - 🌱 **복학한 2학년(21학번)** 이지만 자유롭게 말 걸어주세요. / A **sophomore** returning after a break (Class of '21) – feel free to say hi anytime!
 - ⚡ _"안광지배철!"_ /  _"A gaze so intense, it cuts through anything."_
@@ -16,7 +23,21 @@
   <a href="https://www.instagram.com/ne_gr_za?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <br>
+  <a href="https://youtu.be/L6sRyMrJoO0?si=-D_wMFLirR0-z0h0">
+    <img 
+      src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2wzYWR3Y3h5MWd6aHR2eGtvNXF5em0xdWUyYjZlcG5neXd5bXZvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBz5WdRACsaqEEGRfl/giphy.gif" 
+      width="150" 
+    /> 
+  </a> "please click this image"
 </span>
+
+
+
+
+
+
+**You can get a sense of who I am. 😊**
 
 ## "🤖Used in college(한 번이라도 써본 것까지)"
 <span>
@@ -38,8 +59,17 @@
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
-  <img src="https://img.shields.io/badge/Burger King-D62300?style=for-the-badge&logo=Burger King&logoColor=white"/>
- 
+  <img src="	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </span>
 
 ## "TMI"
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp3eXpvcDVycGg3cDUxaWQzODJtamF0bTV1ZGFmZ3dnNGg5aDNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhRA0okWxTGiu78uSk/giphy.gif" alt="Funny GIF" width="250" />
+
+```
+📍 Incheon, Korea
+💼 License: SQLD(developer)👨‍💻 | LifeGuard🏊‍♂️ | Class 2 Driver's License🚗(SuperBestDriver) 
+🦾 무적해병상 수상(사령관⭐⭐⭐) "Recipient of the Invincible Marine Award, presented by the Three-Star Commander."
+🎯 Serverless-first approach
+🔭 Collaborating with customers to create innovative prototypes on AWS
+👨‍💻 Architect & Builder
+```
