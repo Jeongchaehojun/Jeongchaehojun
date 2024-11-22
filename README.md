@@ -1,11 +1,16 @@
 ## Hi there 👋
-<a href="https://youtube.com/@turtleneck_king?si=Ye8GUmUF9ocDgJy-"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?si=Ye8GUmUF9ocDgJy-&url=https%3A%2F%2Fyoutube.com%2F%40turtleneck_king&count_bg=%23FFFFFF&title_bg=%23555555&icon=youtube.svg&icon_color=%23FF0000&title=YOUTUBE&edge_flat=false"/></a>
-
+## My bio-links
 <span>
   <a href="https://youtube.com/@turtleneck_king?si=Ye8GUmUF9ocDgJy-">
     <img src="https://img.shields.io/badge/Youtube-ff0000?style=plastic&logo=Youtube&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/ne_gr_za?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
 </span>
+## My certification
+
+
 **Jeongchaehojun/Jeongchaehojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
