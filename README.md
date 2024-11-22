@@ -13,7 +13,7 @@
 ## My specification
 <span>
 
- <img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF"/></a>
+ <img src="https://img.shields.io/badge/Mysql-#4479A1?style=flat-square&logo=Mysql&logoColor=FFFFFF"/></a>
   
   <a href="https://www.instagram.com/ne_gr_za?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
