@@ -16,7 +16,7 @@
 - 🌱 **복학한 2학년(21학번)**  / A **sophomore** returning after a break (Class of '21) – feel free to say hi anytime!
 - ⚡ _"안광지배철!"_ /  _"A gaze so intense, it cuts through anything."_
 
-![Last Commit](https://img.shields.io/github/last-commit/johnDoe/awesome-repo.svg)
+![Last Commit](https://github.com/Jeongchaehojun/Jeongchaehojun/blob/main/README.md)
 
 ## My bio-links
 <span>
