@@ -1,4 +1,4 @@
-### 👋 A coffee machine's best friend. 읽어주셔서 감사합니다😁 ☕⚓
+### 👋 A Coffee machine's best friend. 읽어주셔서 감사합니다😁 ☕⚓
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img 
@@ -85,8 +85,8 @@
 ```
 📍 Incheon, Korea
 💼 License: SQLD(developer)👨‍💻 | LifeGuard🏊‍♂️ | Class 2 Driver's License🚗(SuperBestDriver) 
-🦾 Mujuk Habyung Award(Commander⭐⭐⭐) "Recipient of the Invincible Marine Award, presented by the Three-Star Commander."
-🎯 24-2: GameEngine1 | PhysicalComputing | OOP | OpensourceProgramming | ContentMathmatics | AIML | ComputerGrapics
+🦾 Mujuk Haebyung Award(Commander⭐⭐⭐) "Recipient of the Invincible Marine Award, presented by the Three-Star Commander."
+🎯 24-2: GameEngine1 | PhysicalComputing | OOP | OpensourceProgramming | ContentsMathmatics | AIML | ComputerGraphics
 ```
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeongchaehojun&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongchaehojun&layout=compact&langs_count=5&theme=blue-green&cache_seconds=86400)
