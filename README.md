@@ -89,7 +89,8 @@
 🎯 24-2: GameEngine1 | PhysicalComputing | OOP | OpensourceProgramming | ContentMathmatics | AIML | ComputerGrapics
 ```
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeongchaehojun&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongchaehojun&layout=compact&langs_count=5&theme=blue-green)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongchaehojun&layout=compact&langs_count=5&theme=blue-green&cache_seconds=86400)
+
 
 💞"Have an idea or suggestion? Feel free to contribute! Fork the repo, make your changes, and submit a pull request. Let's build something amazing together!"
 
