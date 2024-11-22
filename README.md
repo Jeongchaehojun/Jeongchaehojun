@@ -16,7 +16,7 @@
 - 🌱 **복학한 2학년(21학번)**  / A **sophomore** returning after a break (Class of '21) – feel free to say hi anytime!
 - ⚡ _"안광지배철!"_ /  _"A gaze so intense, it cuts through anything."_
 
-![Last Commit](https://github.com/Jeongchaehojun/Jeongchaehojun/blob/main/README.md)
+
 
 ## My bio-links
 <span>
@@ -66,7 +66,7 @@
 </span>
 
 ## "TMI"
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp3eXpvcDVycGg3cDUxaWQzODJtamF0bTV1ZGFmZ3dnNGg5aDNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhRA0okWxTGiu78uSk/giphy.gif" alt="Funny GIF" width="100" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp3eXpvcDVycGg3cDUxaWQzODJtamF0bTV1ZGFmZ3dnNGg5aDNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhRA0okWxTGiu78uSk/giphy.gif" alt="Funny GIF" width="100" />![Last Commit](https://img.shields.io/github/last-commit/Jeongchaehojun/Jeongchaehojun.svg?style=flat-square&color=blue)
 
 ```
 📍 Incheon, Korea
@@ -76,4 +76,6 @@
 🔭 
 👨‍💻 Architect & Builder
 ```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeongchaehojun&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongchaehojun&layout=compact&langs_count=5&theme=blue-green)
+
