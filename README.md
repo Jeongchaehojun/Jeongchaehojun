@@ -8,10 +8,18 @@
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
+
+
 ## My certification
+<span>
 
-
-**Jeongchaehojun/Jeongchaehojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://img.shields.io/badge/Youtube-ff0000?style=plastic&logo=Youtube&logoColor=white"/>
+  
+  <a href="https://www.instagram.com/ne_gr_za?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
+<--**Jeongchaehojun/Jeongchaehojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
