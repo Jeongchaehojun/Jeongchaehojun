@@ -12,12 +12,9 @@
 
 ## My specification
 <span>
+  ![js]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white))
 
- <img src="https://img.shields.io/badge/Mysql-#4479A1?style=flat-square&logo=Mysql&logoColor=FFFFFF"/></a>
-  
-  <a href="https://www.instagram.com/ne_gr_za?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
+
 </span>
 <--**Jeongchaehojun/Jeongchaehojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
