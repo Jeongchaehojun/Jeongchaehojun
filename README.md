@@ -13,21 +13,24 @@
 - 🔥 **정채호준** 입니다. (4글자 맞습니다) / I'm Hojun .
 - 🎓 **중앙대학교** 에서 **예술공학, 컴퓨터공학** 을 공부합니다. / Studying **Computer Science, Arts and Technology** at **Chung-Ang University**
 - 🦅 **해병 병장 만기 전역** / Proudly served as a **Marine Corps Sergeant (honorably discharged)**
-- 🌱 **복학한 2학년(21학번)** 이지만 자유롭게 말 걸어주세요. / A **sophomore** returning after a break (Class of '21) – feel free to say hi anytime!
+- 🌱 **복학한 2학년(21학번)**  / A **sophomore** returning after a break (Class of '21) – feel free to say hi anytime!
 - ⚡ _"안광지배철!"_ /  _"A gaze so intense, it cuts through anything."_
+
+![Last Commit](https://img.shields.io/github/last-commit/johnDoe/awesome-repo.svg)
+
 ## My bio-links
 <span>
   <a href="https://youtube.com/@turtleneck_king?si=Ye8GUmUF9ocDgJy-">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100" height="30" />
   </a>
   <a href="https://www.instagram.com/ne_gr_za?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100" height="30" />
   </a>
   <br>
   <a href="https://youtu.be/L6sRyMrJoO0?si=-D_wMFLirR0-z0h0">
     <img 
       src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2wzYWR3Y3h5MWd6aHR2eGtvNXF5em0xdWUyYjZlcG5neXd5bXZvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBz5WdRACsaqEEGRfl/giphy.gif" 
-      width="150" 
+      width="100" 
     /> 
   </a> "please click this image"
 </span>
@@ -63,13 +66,14 @@
 </span>
 
 ## "TMI"
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp3eXpvcDVycGg3cDUxaWQzODJtamF0bTV1ZGFmZ3dnNGg5aDNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhRA0okWxTGiu78uSk/giphy.gif" alt="Funny GIF" width="250" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp3eXpvcDVycGg3cDUxaWQzODJtamF0bTV1ZGFmZ3dnNGg5aDNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhRA0okWxTGiu78uSk/giphy.gif" alt="Funny GIF" width="100" />
 
 ```
 📍 Incheon, Korea
 💼 License: SQLD(developer)👨‍💻 | LifeGuard🏊‍♂️ | Class 2 Driver's License🚗(SuperBestDriver) 
 🦾 무적해병상 수상(사령관⭐⭐⭐) "Recipient of the Invincible Marine Award, presented by the Three-Star Commander."
-🎯 Serverless-first approach
-🔭 Collaborating with customers to create innovative prototypes on AWS
+🎯 24-2: GameEngine1 | PhysicalComputing | OOP | OpensourceProgramming | ContentMathmatics | AIML | ComputerGrapics
+🔭 
 👨‍💻 Architect & Builder
 ```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongchaehojun&layout=compact&langs_count=5&theme=blue-green)
