@@ -1,4 +1,4 @@
-### 👋 A Coffee machine's best friend. 읽어주셔서 감사합니다😁 ☕⚓
+### 👋☕
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img 
@@ -14,15 +14,13 @@
 - 🎓 Studying **Computer Science, Arts and Technology** at **Chung-Ang University** / **중앙대학교** 에서 **예술공학, 컴퓨터공학**.
 - 🦅 Proudly served as a **Marine Corps Sergeant (honorably discharged)** / **해병 병장 만기 전역**
 - 🌱 A **sophomore** returning after a break (Class of '21) – feel free to say hi anytime! / **복학한 2학년(21학번)**
-- ⚡ _"A gaze so intense, it cuts through anything."_ / _"안광지배철!"_ 
+
 
 
 
 ## My bio-links
 <span>
-  <a href="https://youtube.com/@turtleneck_king?si=Ye8GUmUF9ocDgJy-">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100" height="30" />
-  </a>
+
   <a href="https://www.instagram.com/ne_gr_za?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100" height="30" />
   </a>
@@ -87,11 +85,8 @@
 🦾 Mujuk Haebyung Award(Commander⭐⭐⭐) "Recipient of the Invincible Marine Award, presented by the Three-Star Commander."
 🎯 24-2: GameEngine1 | PhysicalComputing | OOP | OpensourceProgramming | ContentsMathmatics | AIML | ComputerGraphics
 ```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeongchaehojun&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongchaehojun&layout=compact&langs_count=5&theme=blue-green&cache_seconds=86400)
 
 
-💞"Have an idea or suggestion? Feel free to contribute! Fork the repo, make your changes, and submit a pull request. Let's build something amazing together!"
 
 
 
