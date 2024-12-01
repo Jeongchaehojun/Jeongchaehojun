@@ -80,7 +80,6 @@
 </span>
 
 ## "TMI"
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp3eXpvcDVycGg3cDUxaWQzODJtamF0bTV1ZGFmZ3dnNGg5aDNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhRA0okWxTGiu78uSk/giphy.gif" alt="Funny GIF" width="100" />![Last Commit](https://img.shields.io/github/last-commit/Jeongchaehojun/Jeongchaehojun.svg?style=flat-square&color=blue)
 
 ```
 📍 Incheon, Korea
