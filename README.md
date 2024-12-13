@@ -11,9 +11,9 @@
 
 
 - 🔥 **정채호준** 입니다. (4글자 맞습니다) / I'm Hojun .
-- 🎓 Studying **Computer Science, Arts and Technology** at **Chung-Ang University** / **중앙대학교** 에서 **예술공학, 컴퓨터공학**.
-- 🦅 Proudly served as a **Marine Corps Sergeant (honorably discharged)** / **해병 병장 만기 전역**
-- 🌱 A **sophomore** returning after a break (Class of '21) – feel free to say hi anytime! / **복학한 2학년(21학번)**
+- 🎓 Studying **Computer Science and Engineering, Arts and Technology** at **Chung-Ang University** / **중앙대학교** 에서 **소프트웨어, 예술공학**.
+- 🦅 Proudly served as a **Marine Corps Sergeant (honorably discharged)**
+- 🌱 A **sophomore** returning after a break (Class of '21) – feel free to say hi anytime!
 
 
 
@@ -50,32 +50,6 @@
 | 03 | [The Meta-Verse](https://www.yes24.com/Product/Goods/119153901) | Mattew Ball |
 | 04 | [Now Again SaudiArabia](https://www.yes24.com/Product/Goods/125297987) | Insik Park |
 | 05 | [Try Again, Calculus!](https://www.yes24.com/Product/Goods/77126121) | Nagano Hiroyuki |
-
-
-
-
-## "🤖Used in college"
-<span>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burger King-D62300?style=for-the-badge&logo=Burger King&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
-  <img src="	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-</span>
 
 ## "TMI"
 
