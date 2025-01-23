@@ -1,19 +1,8 @@
 ### 👋☕
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img 
-    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdpc2liNm5mb3pwM2pzYWlpaDNuazRuZm5ibWh5b2V6aWd0anhuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" 
-    alt="Funny GIF" 
-    width="250" 
-  />
-</div>
-
-
-
 - 🔥 **정채호준** 입니다. (4글자 맞습니다) / I'm Hojun .
 - 🎓 Studying **Computer Science and Engineering, Arts and Technology** at **Chung-Ang University** / **중앙대학교** 에서 **소프트웨어, 예술공학**.
 - 🦅 Proudly served as a **Marine Corps Sergeant (honorably discharged)**
-- 🌱 A **sophomore** returning after a break (Class of '21) – feel free to say hi anytime!
 
 
 
@@ -57,7 +46,6 @@
 📍 Incheon, Korea
 💼 License: SQLD(developer)👨‍💻 | LifeGuard🏊‍♂️ | Class 2 Driver's License🚗(SuperBestDriver) 
 🦾 Mujuk Haebyung Award(Commander⭐⭐⭐) "Recipient of the Invincible Marine Award, presented by the Three-Star Commander."
-🎯 24-2: GameEngine1 | PhysicalComputing | OOP | OpensourceProgramming | ContentsMathmatics | AIML | ComputerGraphics
 ```
 
 
