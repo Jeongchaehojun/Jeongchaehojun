@@ -1,8 +1,10 @@
 ## Jeongchaehojun
 
 - 🎓 Studying **Computer Science and Engineering, Arts and Technology** at **Chung-Ang University** /
+  <br/>
   **중앙대학교** 에서 **소프트웨어, 예술공학**.
 - 🦅 **Republic of Korea Marine Corps**(honorably discharged)/
+  <br/>
   해병 병장 만기 전역
 
 
