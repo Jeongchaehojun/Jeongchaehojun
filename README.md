@@ -41,9 +41,8 @@
 🦈 Mujuk Haebyung Award(Commander⭐⭐⭐) "Recipient of the Invincible Marine Award, presented by the Three-Star Commander."
 ```
 ## "Lang"
-<!-- 가장 많이 사용한 언어 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongchaehojun&layout=compact&theme=tokyonight)
-
+<!-- 사용한 언어들을 최대한 많이 보여줌 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongchaehojun&langs_count=10&theme=tokyonight)
 
 
 
