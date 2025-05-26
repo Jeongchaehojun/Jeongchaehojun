@@ -10,7 +10,7 @@
 
 
 
-## Bio-links
+## "📺"
 <span>
   <!-- 인스타그램 하이퍼링크 -->
   <a href="https://www.instagram.com/ne_gr_za?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
@@ -34,7 +34,7 @@
 </span> 
 
 
-## "Me"
+## "💿"
 
 ```
 📍 Dongdaemun, Seoul, Korea
