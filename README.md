@@ -43,7 +43,8 @@
 ```
 ## "💻"
 <!-- 사용한 언어들을 최대한 많이 보여줌 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sealion)](https://solved.ac/sealion/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongchaehojun&langs_count=10&theme=tokyonight) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sealion)](https://solved.ac/sealion/)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongchaehojun&langs_count=10&theme=tokyonight) 
 
 
 
