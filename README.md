@@ -36,8 +36,8 @@
 
 ## "💿"
 
+**LICENSE**
 ```
-**LICENSE**:
 SQLD(developer)👨‍💻
 LifeGuard🏊‍♂️ 
 Class 2 Driver's License🚗
