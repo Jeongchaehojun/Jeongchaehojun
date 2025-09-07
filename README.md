@@ -37,9 +37,10 @@
 ## "💿"
 
 ```
-📍 Dongdaemun, Seoul, Korea
-💼 License: SQLD(developer)👨‍💻 | LifeGuard🏊‍♂️ | Class 2 Driver's License🚗(SuperBestDriver) 
-🦈 Mujuk Haebyung Award(Commander⭐⭐⭐) "Recipient of the Invincible Marine Award, presented by the Three-Star Commander."
+**LICENSE**:
+SQLD(developer)👨‍💻
+LifeGuard🏊‍♂️ 
+Class 2 Driver's License🚗
 ```
 ## "💻"
 <!-- 사용한 언어들을 최대한 많이 보여줌 -->
