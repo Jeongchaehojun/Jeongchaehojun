@@ -36,11 +36,12 @@
 
 ## "💿"
 
-**LICENSE**
+**Certificates & Awards**
 ```
 SQLD(developer)👨‍💻
 LifeGuard🏊‍♂️ 
 Class 2 Driver's License🚗
+Exemplary Marine Award (Commandant of the ROKMC)⭐️⭐️⭐️
 ```
 ## "💻"
 <!-- 사용한 언어들을 최대한 많이 보여줌 -->
