@@ -10,24 +10,29 @@
 
 ## "📺"
 <span>
+  <!-- 홈페이지 하이퍼링크 -->
+  <a href="https://sites.google.com/view/chaehojunjeong/" target="_blank">
+    Homepage
+  </a> ⬅️ 홈페이지
+  <br />
   <!-- 인스타그램 하이퍼링크 -->
   <a href="https://www.instagram.com/ne_gr_za?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
     Instagram
-  </a>
+  </a> ⬅️ SNS
 
   <br />
 
   <!-- 유튜브 하이퍼링크 -->
   <a href="https://youtube.com/channel/UCRPz9u4tso5RIXnex8Tg4Iw?si=qvQDVoG4CUUEM_8T" target="_blank">
     Youtube
-  </a>
+  </a> ⬅️ 유튜브
 
   <br />
 
   <!-- 유튜브 영상 하이퍼링크 -->
   <a href="https://youtu.be/L6sRyMrJoO0?si=-D_wMFLirR0-z0h0" target="_blank">
     Please click this link to watch the video 
-  </a> 
+  </a> ⬅️ 구경
   
 </span> 
 
